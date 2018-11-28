@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidFundamentals</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="click_me">Click me!</string>
+    <string name="email">email</string>
+    <string name="i_accept_t_an_c">I accept T an C</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="this_is_an_orange_textview">This is an orange TextView</string>
+    <string name="this_is_a_blue_textview">This is a blue TextView</string>
+    <string name="this_is_a_green_textview">This is a green TextView</string>
+    <string name="this_is_a_button">THIS IS A BUTTON</string>
+    <string name="this_is_an_edit_text">This is an Edit Text</string>
+    <string name="notify_me">Notify me :)</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
